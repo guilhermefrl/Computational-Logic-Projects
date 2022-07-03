@@ -1,4 +1,4 @@
-# Computational-Logic-Projects
+# Computational Logic Projects
 
 ## Objective
 
