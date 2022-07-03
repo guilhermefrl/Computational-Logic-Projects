@@ -1,4 +1,4 @@
-# Problem A &mdash; How many horse rides?
+# Problem A &mdash; How many horse steps?
 
 ## Problem
 
@@ -14,7 +14,7 @@ The entry for this exercise consists of a line containing the 4 integers _N_, _k
 
 ## Output format
 
-A line with the intege _M_ that indicates how many different rides of length _k_ are possible on the board starting from  _(a, b)_.
+A line with the intege _M_ that indicates how many different steps of length _k_ are possible on the board starting from _(a, b)_.
 
 
 ## Limits
