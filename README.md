@@ -2,7 +2,7 @@
 
 ## Objective
 
-Resolution of the practical exercises of Computational Logic in **OCaml**.
+Resolution of the practical exercises of Computational Logic using **OCaml**.
 
 
 ## Problems
