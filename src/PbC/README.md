@@ -7,7 +7,7 @@ The unsolved problem in this exercise is to find out whether an FNC is a tautolo
 Recall that this Lemma emphasizes that a disjunction that contains ⊤ or a literal and its negation is necessarily valid.
 
 
-## Raks
+## Taks
 
 Read the input formula that is in conjunctive normal form, calculate and state whether it is a valid formula or not.
 
