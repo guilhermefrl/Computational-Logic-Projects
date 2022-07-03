@@ -1,6 +1,6 @@
-# Problema A &mdash; How many horse rides??
+# Problem A &mdash; How many horse rides?
 
-## Problema
+## Problem
 
 Consider a chess board _N_ by _N_ and a knight positioned in cell _(a,b)_ (with **0 ≤ _a, b_ < _N_**). The following question arises, given a positive natural integer _k_ (i.e. _k > 0_), how many paths of length _k_ and exclusively within the limits of the board can the knight take.
 
