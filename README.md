@@ -7,9 +7,9 @@ Resolution of the practical exercises of Computational Logic in **OCaml**.
 
 ## Problems
 
-* **[Problema A](/src/PbA/):** How many horse rides?
-* **[Problema B](/src/PbB/):** Well-formed propositional formulas.
-* **[Problema C](/src/PbC/):** Validity of FNC formulas.
+* **[Problem A](/src/PbA/):** How many horse rides?
+* **[Problem B](/src/PbB/):** Well-formed propositional formulas.
+* **[Problem C](/src/PbC/):** Validity of FNC formulas.
 
 
 ## Requirements
